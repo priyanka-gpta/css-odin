@@ -1,0 +1,14 @@
+.standard {
+    background-color: black;
+    color: white;
+}
+
+.different {
+    background-color: yellow;
+}
+
+.standard,
+.different {
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman", sans-serif;
+}
